@@ -1,0 +1,6 @@
+Comando para crear un .json por defecto "npm init --yes"
+
+Comando para instalar paquetes. "npm install express"
+Comando para instalar paquetes como developer. "npm install express --save-dev"
+Comando para desinstalar paquetes. "npm uninstall express   "
+Comando para instalar paquetes de una versión en especifico. "npm install express@4.15.1"
